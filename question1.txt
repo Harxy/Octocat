@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+So the git clone command takes the git repository as a parameter and makes a version of that repo locally. For example, if someone had a repo on github, you could clone the repo onto your local hard drive, work on it, and commit changes to your own fork, or submist a pull request if you wanted to merge with the upstream repo.
