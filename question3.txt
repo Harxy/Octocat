@@ -1,1 +1,3 @@
-Explain what a branch is, in your own words
+So a branch is basically a function for either creating a new repository from and existing one and making changes to it without worrying about the original, or it's a way to go back in time ('upstream') and changing the code from that point, branching it into a parallel codebase for experimentation or your own projects.
+
+Once you have branched a project, you can checkout different branches and the master branch, working seperately at many different times/sections of the code.
